@@ -1,0 +1,540 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="m.hotel-uyut.kz" resolutions="1x" timestamp="1477074792139">
+  <folder name="css">
+    <file name="site_global.css" crc="239469085"/>
+    <file name="master_maket-4.css" crc="4045598600" ref="booking"/>
+    <file name="nomq_preview_master_maket-4.css" crc="4011467950" ref="booking"/>
+    <file name="master_maket-2.css" crc="407152839" ref="uslugi:standart:o-nas:polulyuks:contacty:ceny:akcii:komfort-de-lyuks:lyuks-2h-komnatnyy:catalog"/>
+    <file name="nomq_preview_master_maket-2.css" crc="4031538982" ref="uslugi:standart:o-nas:polulyuks:contacty:ceny:akcii:komfort-de-lyuks:lyuks-2h-komnatnyy:catalog"/>
+    <file name="master_maket-3.css" crc="4265464794" ref="index"/>
+    <file name="nomq_preview_master_maket-3.css" crc="408158980" ref="index"/>
+    <file name="uslugi.css" crc="3797587735" ref="uslugi"/>
+    <file name="nomq_uslugi.css" crc="369904744" ref="uslugi"/>
+    <file name="iefonts_uslugi.css" crc="3824530138" ref="uslugi"/>
+    <file name="index.css" crc="442448901" ref="index"/>
+    <file name="nomq_index.css" crc="369515042" ref="index"/>
+    <file name="booking.css" crc="4176101685" ref="booking"/>
+    <file name="nomq_booking.css" crc="367763394" ref="booking"/>
+    <file name="standart.css" crc="264207759" ref="standart"/>
+    <file name="nomq_standart.css" crc="335905053" ref="standart"/>
+    <file name="o-nas.css" crc="160294182" ref="o-nas"/>
+    <file name="nomq_o-nas.css" crc="4294847747" ref="o-nas"/>
+    <file name="iefonts_o-nas.css" crc="3824530138" ref="o-nas"/>
+    <file name="polulyuks.css" crc="4287947949" ref="polulyuks"/>
+    <file name="nomq_polulyuks.css" crc="3901843510" ref="polulyuks"/>
+    <file name="contacty.css" crc="261358507" ref="contacty"/>
+    <file name="nomq_contacty.css" crc="3848392997" ref="contacty"/>
+    <file name="iefonts_contacty.css" crc="3824530138" ref="contacty"/>
+    <file name="ceny.css" crc="3874690181" ref="ceny"/>
+    <file name="nomq_ceny.css" crc="96179387" ref="ceny"/>
+    <file name="iefonts_ceny.css" crc="3824530138" ref="ceny"/>
+    <file name="akcii.css" crc="6591242" ref="akcii"/>
+    <file name="nomq_akcii.css" crc="4006927316" ref="akcii"/>
+    <file name="komfort-de-lyuks.css" crc="133684399" ref="komfort-de-lyuks"/>
+    <file name="nomq_komfort-de-lyuks.css" crc="501657773" ref="komfort-de-lyuks"/>
+    <file name="lyuks-2h-komnatnyy.css" crc="289202774" ref="lyuks-2h-komnatnyy"/>
+    <file name="nomq_lyuks-2h-komnatnyy.css" crc="4152326582" ref="lyuks-2h-komnatnyy"/>
+    <file name="catalog.css" crc="246967774" ref="catalog"/>
+    <file name="nomq_catalog.css" crc="4251155564" ref="catalog"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="museutils.js" crc="3851988764" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="whatinput.js" crc="86476730" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="museconfig.js" crc="169177150" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="pie.js" crc="3831537696" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="webpro.js" crc="4067903014" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="require.js" crc="4108833657" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+  </folder>
+  <folder name="images">
+    <file name="maket-2-favicon.ico" crc="111324095" ref="o-nas"/>
+    <file name="1 fon-u257858-fr.jpg" crc="295366666" ref="o-nas:index"/>
+    <file name="logo.png" crc="74628438" seo="true" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="22-crop-u257836.png" crc="369578486" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="4.png" crc="12641260" seo="true" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="fon.jpg" crc="337238993" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="21678_470682_15.jpg" crc="135832616" seo="true" ref="o-nas"/>
+    <file name="facks.png" crc="4118774995" seo="true" ref="o-nas:contacty"/>
+    <file name="novigation-crop-u2569.png" crc="3956272864" ref="o-nas"/>
+    <file name="telephon-crop-u2593.png" crc="3850522548" ref="o-nas"/>
+    <file name="telephon-crop-u2717.png" crc="3850522548" ref="o-nas"/>
+    <file name="global2-crop-u2829.png" crc="350941659" ref="o-nas"/>
+    <file name="letter2-crop-u2869.png" crc="292402903" ref="o-nas"/>
+    <file name="2 fon.jpg" crc="372590423" ref="o-nas:booking:lyuks-2h-komnatnyy:index"/>
+    <file name="gold-button-013-2400px-crop-u257855.png" crc="90165519" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="3-u257839.png" crc="3920770054" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="5-crop-u257775.png" crc="45447738" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="6-crop-u257841.png" crc="3790864056" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="7-crop-u257851.png" crc="10549401" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="1 fon.jpg" crc="231301010" ref="o-nas:booking:lyuks-2h-komnatnyy:index"/>
+    <file name="novigation-crop-u25692.png" crc="206629293" ref="o-nas"/>
+    <file name="telephon-crop-u25932.png" crc="212313227" ref="o-nas"/>
+    <file name="telephon-crop-u27172.png" crc="212313227" ref="o-nas"/>
+    <file name="global2-crop-u28292.png" crc="334530728" ref="o-nas"/>
+    <file name="letter2-crop-u28692.png" crc="3765772035" ref="o-nas"/>
+    <file name="novigation-crop-u25693.png" crc="4275632811" ref="o-nas"/>
+    <file name="telephon-crop-u25933.png" crc="268012632" ref="o-nas"/>
+    <file name="telephon-crop-u27173.png" crc="268012632" ref="o-nas"/>
+    <file name="global2-crop-u28293.png" crc="475165088" ref="o-nas"/>
+    <file name="letter2-crop-u28693.png" crc="63063719" ref="o-nas"/>
+    <file name="novigation-crop-u25694.png" crc="174149483" ref="o-nas"/>
+    <file name="telephon-crop-u25934.png" crc="396863645" ref="o-nas"/>
+    <file name="telephon-crop-u27174.png" crc="396863645" ref="o-nas"/>
+    <file name="global2-crop-u28294.png" crc="40518182" ref="o-nas"/>
+    <file name="letter2-crop-u28694.png" crc="4163125480" ref="o-nas"/>
+    <file name="21678_470682_15454x228.jpg" crc="4287190677" seo="true" ref="o-nas"/>
+    <file name="novigation-crop-u25695.png" crc="4188618298" ref="o-nas"/>
+    <file name="telephon-crop-u25935.png" crc="361012918" ref="o-nas"/>
+    <file name="telephon-crop-u27175.png" crc="499963405" ref="o-nas"/>
+    <file name="global2-crop-u28295.png" crc="119566350" ref="o-nas"/>
+    <file name="letter2-crop-u28695.png" crc="63063719" ref="o-nas"/>
+    <file name="4-crop-u257833.png" crc="37550468" ref="o-nas:catalog:ceny:uslugi:contacty:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii"/>
+    <file name="21678_470682_15395x199.jpg" crc="4245677125" seo="true" ref="o-nas"/>
+    <file name="novigation-crop-u25696.png" crc="91997420" ref="o-nas"/>
+    <file name="telephon-crop-u25936.png" crc="3850522548" ref="o-nas"/>
+    <file name="telephon-crop-u27176.png" crc="3850522548" ref="o-nas"/>
+    <file name="global2-crop-u28296.png" crc="4048111499" ref="o-nas"/>
+    <file name="letter2-crop-u28696.png" crc="3765772035" ref="o-nas"/>
+    <file name="21678_470682_15353x178.jpg" crc="200139686" seo="true" ref="o-nas"/>
+    <file name="novigation-crop-u25697.png" crc="332692456" ref="o-nas"/>
+    <file name="telephon-crop-u25937.png" crc="361012918" ref="o-nas"/>
+    <file name="telephon-crop-u27177.png" crc="361012918" ref="o-nas"/>
+    <file name="global2-crop-u28297.png" crc="313939998" ref="o-nas"/>
+    <file name="letter2-crop-u28697.png" crc="359046660" ref="o-nas"/>
+    <file name="21678_470682_15317x160.jpg" crc="3963625236" seo="true" ref="o-nas"/>
+    <file name="novigation-crop-u25698.png" crc="3971112724" ref="o-nas"/>
+    <file name="telephon-crop-u25938.png" crc="162109326" ref="o-nas"/>
+    <file name="telephon-crop-u27178.png" crc="162109326" ref="o-nas"/>
+    <file name="global2-crop-u28298.png" crc="114104781" ref="o-nas"/>
+    <file name="letter2-crop-u28698.png" crc="4154840368" ref="o-nas"/>
+    <file name="21678_470682_15297x149.jpg" crc="4179117803" seo="true" ref="o-nas"/>
+    <file name="novigation-crop-u25699.png" crc="4201254744" ref="o-nas"/>
+    <file name="telephon-crop-u25939.png" crc="60925751" ref="o-nas"/>
+    <file name="telephon-crop-u27179.png" crc="60925751" ref="o-nas"/>
+    <file name="global2-crop-u28299.png" crc="248399551" ref="o-nas"/>
+    <file name="letter2-crop-u28699.png" crc="146462483" ref="o-nas"/>
+    <file name="21678_470682_15268x135.jpg" crc="4038605640" seo="true" ref="o-nas"/>
+    <file name="novigation-crop-u256910.png" crc="238915215" ref="o-nas"/>
+    <file name="telephon-crop-u259310.png" crc="14434107" ref="o-nas"/>
+    <file name="telephon-crop-u271710.png" crc="14434107" ref="o-nas"/>
+    <file name="global2-crop-u282910.png" crc="182097019" ref="o-nas"/>
+    <file name="letter2-crop-u286910.png" crc="122288423" ref="o-nas"/>
+    <file name="21678_470682_15235x118.jpg" crc="3779767005" seo="true" ref="o-nas"/>
+    <file name="novigation-crop-u256911.png" crc="135222728" ref="o-nas"/>
+    <file name="telephon-crop-u259311.png" crc="4123217081" ref="o-nas"/>
+    <file name="telephon-crop-u271711.png" crc="4123217081" ref="o-nas"/>
+    <file name="global2-crop-u282911.png" crc="3866838258" ref="o-nas"/>
+    <file name="letter2-crop-u286911.png" crc="3991618369" ref="o-nas"/>
+    <file name="blank.gif" crc="4208392903" ref="o-nas:catalog:ceny:uslugi:contacty:booking:standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy:akcii:index"/>
+    <file name="standart.jpg" crc="3949994979" seo="true" ref="catalog:standart"/>
+    <file name="gold-button-013-2400px-crop-u6400.png" crc="447681306" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u6493.png" crc="4282484053" ref="catalog"/>
+    <file name="komfdel2.jpg" crc="3870612669" seo="true" ref="catalog:komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u6695.png" crc="146576052" ref="catalog"/>
+    <file name="polylux.jpg" crc="4205062649" seo="true" ref="catalog:polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u6902.png" crc="77253920" ref="catalog"/>
+    <file name="lux2x.jpg" crc="4259011127" seo="true" ref="catalog:lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u64002.png" crc="332307601" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64932.png" crc="3787494470" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66952.png" crc="3881571717" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69022.png" crc="4252922685" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64003.png" crc="4148211773" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64933.png" crc="96856539" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66953.png" crc="4036097022" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69023.png" crc="253454890" ref="catalog"/>
+    <file name="standart424x283.jpg" crc="496164250" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64004.png" crc="4067484407" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64934.png" crc="4202321213" ref="catalog"/>
+    <file name="komfdel2427x285.jpg" crc="3851274714" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66954.png" crc="4161086780" ref="catalog"/>
+    <file name="polylux427x284.jpg" crc="4013228768" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69024.png" crc="350067171" ref="catalog"/>
+    <file name="lux2x426x285.jpg" crc="4284133212" seo="true" ref="catalog"/>
+    <file name="standart438x292.jpg" crc="495926352" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64005.png" crc="146494116" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64935.png" crc="170962651" ref="catalog"/>
+    <file name="komfdel2438x293.jpg" crc="214169008" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66955.png" crc="497026736" ref="catalog"/>
+    <file name="polylux438x291.jpg" crc="4278187534" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69025.png" crc="7744781" ref="catalog"/>
+    <file name="lux2x438x293.jpg" crc="4159923603" seo="true" ref="catalog"/>
+    <file name="standart347x231.jpg" crc="3791194573" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64006.png" crc="463747149" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64936.png" crc="276399061" ref="catalog"/>
+    <file name="komfdel2349x233.jpg" crc="3914152916" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66956.png" crc="324662012" ref="catalog"/>
+    <file name="polylux349x232.jpg" crc="3900504009" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69026.png" crc="4110701491" ref="catalog"/>
+    <file name="lux2x348x233.jpg" crc="3866236004" seo="true" ref="catalog"/>
+    <file name="standart354x237.jpg" crc="361070557" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64007.png" crc="4207999896" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64937.png" crc="470534065" ref="catalog"/>
+    <file name="komfdel2354x236.jpg" crc="4056134299" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66957.png" crc="4229587092" ref="catalog"/>
+    <file name="polylux355x236.jpg" crc="4157257528" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69027.png" crc="4266865405" ref="catalog"/>
+    <file name="lux2x355x237.jpg" crc="8892788" seo="true" ref="catalog"/>
+    <file name="standart332x222.jpg" crc="135087129" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64008.png" crc="160430028" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64938.png" crc="531651852" ref="catalog"/>
+    <file name="komfdel2332x222.jpg" crc="18171333" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66958.png" crc="3912641518" ref="catalog"/>
+    <file name="polylux333x221.jpg" crc="85147252" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69028.png" crc="4166443365" ref="catalog"/>
+    <file name="lux2x333x222.jpg" crc="4105719125" seo="true" ref="catalog"/>
+    <file name="standart300x201.jpg" crc="444953658" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64009.png" crc="292319629" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u64939.png" crc="108887135" ref="catalog"/>
+    <file name="komfdel2297x198.jpg" crc="411645283" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u66959.png" crc="5015731" ref="catalog"/>
+    <file name="polylux297x198.jpg" crc="3838852707" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u69029.png" crc="3825236784" ref="catalog"/>
+    <file name="lux2x301x201.jpg" crc="157806300" seo="true" ref="catalog"/>
+    <file name="standart276x185.jpg" crc="283130011" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u640010.png" crc="273413563" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u649310.png" crc="4290518710" ref="catalog"/>
+    <file name="komfdel2278x186.jpg" crc="4208504921" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u669510.png" crc="3791553534" ref="catalog"/>
+    <file name="polylux275x183.jpg" crc="4027132299" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u690210.png" crc="224813520" ref="catalog"/>
+    <file name="lux2x272x182.jpg" crc="88326688" seo="true" ref="catalog"/>
+    <file name="standart242x162.jpg" crc="4047475428" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u640011.png" crc="49001588" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u649311.png" crc="497789002" ref="catalog"/>
+    <file name="komfdel2244x163.jpg" crc="4040610655" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u669511.png" crc="4109722576" ref="catalog"/>
+    <file name="polylux241x160.jpg" crc="4171652577" seo="true" ref="catalog"/>
+    <file name="gold-button-013-2400px-crop-u690211.png" crc="4109379586" ref="catalog"/>
+    <file name="lux2x238x159.jpg" crc="3970588233" seo="true" ref="catalog"/>
+    <file name="fit.jpg" crc="4039094458" seo="true" ref="uslugi"/>
+    <file name="sauna.jpg" crc="4009733960" seo="true" ref="uslugi"/>
+    <file name="fit419x279.jpg" crc="311163228" seo="true" ref="uslugi"/>
+    <file name="sauna422x281.jpg" crc="265156897" seo="true" ref="uslugi"/>
+    <file name="fit354x236.jpg" crc="4225198321" seo="true" ref="uslugi"/>
+    <file name="sauna355x237.jpg" crc="3983525614" seo="true" ref="uslugi"/>
+    <file name="fit325x217.jpg" crc="322799495" seo="true" ref="uslugi"/>
+    <file name="sauna324x217.jpg" crc="15496152" seo="true" ref="uslugi"/>
+    <file name="fit300x200.jpg" crc="385488616" seo="true" ref="uslugi"/>
+    <file name="sauna299x200.jpg" crc="186099323" seo="true" ref="uslugi"/>
+    <file name="fit271x181.jpg" crc="3985042037" seo="true" ref="uslugi"/>
+    <file name="sauna271x181.jpg" crc="451325794" seo="true" ref="uslugi"/>
+    <file name="fit238x159.jpg" crc="4118253730" seo="true" ref="uslugi"/>
+    <file name="sauna238x159.jpg" crc="383847066" seo="true" ref="uslugi"/>
+    <file name="novigation-crop-u17169.png" crc="3956272864" ref="contacty"/>
+    <file name="telephon-crop-u17171.png" crc="3850522548" ref="contacty"/>
+    <file name="telephon-crop-u17173.png" crc="3850522548" ref="contacty"/>
+    <file name="global2-crop-u17175.png" crc="350941659" ref="contacty"/>
+    <file name="letter2-crop-u17177.png" crc="292402903" ref="contacty"/>
+    <file name="novigation-crop-u171692.png" crc="206629293" ref="contacty"/>
+    <file name="telephon-crop-u171712.png" crc="212313227" ref="contacty"/>
+    <file name="telephon-crop-u171732.png" crc="212313227" ref="contacty"/>
+    <file name="global2-crop-u171752.png" crc="334530728" ref="contacty"/>
+    <file name="letter2-crop-u171772.png" crc="3765772035" ref="contacty"/>
+    <file name="novigation-crop-u171693.png" crc="4275632811" ref="contacty"/>
+    <file name="telephon-crop-u171713.png" crc="268012632" ref="contacty"/>
+    <file name="telephon-crop-u171733.png" crc="268012632" ref="contacty"/>
+    <file name="global2-crop-u171753.png" crc="475165088" ref="contacty"/>
+    <file name="letter2-crop-u171773.png" crc="63063719" ref="contacty"/>
+    <file name="novigation-crop-u171694.png" crc="174149483" ref="contacty"/>
+    <file name="telephon-crop-u171714.png" crc="396863645" ref="contacty"/>
+    <file name="telephon-crop-u171734.png" crc="396863645" ref="contacty"/>
+    <file name="global2-crop-u171754.png" crc="40518182" ref="contacty"/>
+    <file name="letter2-crop-u171774.png" crc="4163125480" ref="contacty"/>
+    <file name="novigation-crop-u171695.png" crc="3890413378" ref="contacty"/>
+    <file name="telephon-crop-u171715.png" crc="331641754" ref="contacty"/>
+    <file name="telephon-crop-u171735.png" crc="331641754" ref="contacty"/>
+    <file name="global2-crop-u171755.png" crc="3769455999" ref="contacty"/>
+    <file name="letter2-crop-u171775.png" crc="4206206018" ref="contacty"/>
+    <file name="novigation-crop-u171696.png" crc="238915215" ref="contacty"/>
+    <file name="telephon-crop-u171716.png" crc="483019758" ref="contacty"/>
+    <file name="telephon-crop-u171736.png" crc="483019758" ref="contacty"/>
+    <file name="global2-crop-u171756.png" crc="129699363" ref="contacty"/>
+    <file name="letter2-crop-u171776.png" crc="4199595015" ref="contacty"/>
+    <file name="novigation-crop-u171697.png" crc="3971112724" ref="contacty"/>
+    <file name="telephon-crop-u171717.png" crc="308035115" ref="contacty"/>
+    <file name="telephon-crop-u171737.png" crc="308035115" ref="contacty"/>
+    <file name="global2-crop-u171757.png" crc="329684222" ref="contacty"/>
+    <file name="letter2-crop-u171777.png" crc="502634449" ref="contacty"/>
+    <file name="novigation-crop-u171698.png" crc="4194675926" ref="contacty"/>
+    <file name="telephon-crop-u171718.png" crc="3777015535" ref="contacty"/>
+    <file name="telephon-crop-u171738.png" crc="3777015535" ref="contacty"/>
+    <file name="global2-crop-u171758.png" crc="165010873" ref="contacty"/>
+    <file name="letter2-crop-u171778.png" crc="4275136829" ref="contacty"/>
+    <file name="novigation-crop-u171699.png" crc="4281628885" ref="contacty"/>
+    <file name="telephon-crop-u171719.png" crc="3843220205" ref="contacty"/>
+    <file name="telephon-crop-u171739.png" crc="3843220205" ref="contacty"/>
+    <file name="global2-crop-u171759.png" crc="4264708236" ref="contacty"/>
+    <file name="letter2-crop-u171779.png" crc="396629811" ref="contacty"/>
+    <file name="novigation-crop-u1716910.png" crc="238915215" ref="contacty"/>
+    <file name="telephon-crop-u1717110.png" crc="14434107" ref="contacty"/>
+    <file name="telephon-crop-u1717310.png" crc="14434107" ref="contacty"/>
+    <file name="global2-crop-u1717510.png" crc="182097019" ref="contacty"/>
+    <file name="letter2-crop-u1717710.png" crc="122288423" ref="contacty"/>
+    <file name="novigation-crop-u1716911.png" crc="135222728" ref="contacty"/>
+    <file name="telephon-crop-u1717111.png" crc="4123217081" ref="contacty"/>
+    <file name="telephon-crop-u1717311.png" crc="4123217081" ref="contacty"/>
+    <file name="global2-crop-u1717511.png" crc="3866838258" ref="contacty"/>
+    <file name="letter2-crop-u1717711.png" crc="3991618369" ref="contacty"/>
+    <file name="maket-4-favicon.ico" crc="111324095" ref="booking"/>
+    <file name="22-crop-u261223.png" crc="369578486" ref="booking"/>
+    <file name="3-u261221.png" crc="3920770054" ref="booking"/>
+    <file name="5-crop-u261147.png" crc="45447738" ref="booking"/>
+    <file name="6-crop-u261227.png" crc="3790864056" ref="booking"/>
+    <file name="7-crop-u261229.png" crc="10549401" ref="booking"/>
+    <file name="4-crop-u261164.png" crc="37550468" ref="booking"/>
+    <file name="adult.png" crc="370549474" seo="true" ref="standart:komfort-de-lyuks:polulyuks:lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u27260.png" crc="90165519" ref="standart"/>
+    <file name="standart1.jpg" crc="171468613" seo="true" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272602.png" crc="255210649" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272603.png" crc="35166055" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272604.png" crc="278490329" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272605.png" crc="3925202782" ref="standart"/>
+    <file name="standart391x261.jpg" crc="3788568913" seo="true" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272606.png" crc="3808350335" ref="standart"/>
+    <file name="standart1209x314.jpg" crc="295469950" seo="true" ref="standart"/>
+    <file name="standart339x227.jpg" crc="4256267251" seo="true" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272607.png" crc="3908851225" ref="standart"/>
+    <file name="standart1182x273.jpg" crc="4176450788" seo="true" ref="standart"/>
+    <file name="standart318x213.jpg" crc="126826737" seo="true" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272608.png" crc="18895940" ref="standart"/>
+    <file name="standart1171x257.jpg" crc="302069198" seo="true" ref="standart"/>
+    <file name="standart297x199.jpg" crc="4266633981" seo="true" ref="standart"/>
+    <file name="gold-button-013-2400px-crop-u272609.png" crc="3793303471" ref="standart"/>
+    <file name="standart1160x240.jpg" crc="420304198" seo="true" ref="standart"/>
+    <file name="standart267x179.jpg" crc="17710014" seo="true" ref="standart"/>
+    <file name="gold-button-013-2400px-u27260.png" crc="507066403" ref="standart"/>
+    <file name="standart1145x217.jpg" crc="247855787" seo="true" ref="standart"/>
+    <file name="standart234x156.jpg" crc="4036520972" seo="true" ref="standart"/>
+    <file name="gold-button-013-2400px-u272602.png" crc="307770870" ref="standart"/>
+    <file name="standart1127x190.jpg" crc="207081842" seo="true" ref="standart"/>
+    <file name="komdel1.jpg" crc="40647480" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u28362.png" crc="90165519" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283622.png" crc="255210649" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283623.png" crc="35166055" ref="komfort-de-lyuks"/>
+    <file name="komfdel2481x321.jpg" crc="527535209" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1481x321.jpg" crc="4091065279" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283624.png" crc="133244819" ref="komfort-de-lyuks"/>
+    <file name="komfdel2438x292.jpg" crc="4144614131" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1439x293.jpg" crc="27514068" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283625.png" crc="3925202782" ref="komfort-de-lyuks"/>
+    <file name="komfdel2391x261.jpg" crc="4294419929" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1391x261.jpg" crc="4072143375" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283626.png" crc="3808350335" ref="komfort-de-lyuks"/>
+    <file name="komfdel2345x230.jpg" crc="4228996308" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1348x232.jpg" crc="412580392" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283627.png" crc="3908851225" ref="komfort-de-lyuks"/>
+    <file name="komfdel2321x214.jpg" crc="137598436" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1321x214.jpg" crc="4112713821" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283628.png" crc="18895940" ref="komfort-de-lyuks"/>
+    <file name="komfdel2300x200.jpg" crc="3883102441" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1300x200.jpg" crc="322409285" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-crop-u283629.png" crc="3793303471" ref="komfort-de-lyuks"/>
+    <file name="komfdel2267x179.jpg" crc="3811217287" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1266x177.jpg" crc="3968603355" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-u28362.png" crc="108499371" ref="komfort-de-lyuks"/>
+    <file name="komfdel2234x156.jpg" crc="8353178" seo="true" ref="komfort-de-lyuks"/>
+    <file name="komdel1233x155.jpg" crc="7672937" seo="true" ref="komfort-de-lyuks"/>
+    <file name="gold-button-013-2400px-u283622.png" crc="228477684" ref="komfort-de-lyuks"/>
+    <file name="poly3.jpg" crc="121947081" seo="true" ref="polulyuks"/>
+    <file name="poly4.jpg" crc="38928105" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u28898.png" crc="90165519" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288982.png" crc="255210649" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288983.png" crc="35166055" ref="polulyuks"/>
+    <file name="polylux474x315.jpg" crc="250710940" seo="true" ref="polulyuks"/>
+    <file name="poly3469x316.jpg" crc="4072662801" seo="true" ref="polulyuks"/>
+    <file name="poly4476x317.jpg" crc="401862926" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288984.png" crc="133244819" ref="polulyuks"/>
+    <file name="poly3434x293.jpg" crc="319265410" seo="true" ref="polulyuks"/>
+    <file name="poly4438x293.jpg" crc="268418204" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288985.png" crc="3925202782" ref="polulyuks"/>
+    <file name="polylux391x260.jpg" crc="3769843437" seo="true" ref="polulyuks"/>
+    <file name="poly3387x261.jpg" crc="172988742" seo="true" ref="polulyuks"/>
+    <file name="poly4392x261.jpg" crc="4037614839" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288986.png" crc="3808350335" ref="polulyuks"/>
+    <file name="polylux346x230.jpg" crc="4088105431" seo="true" ref="polulyuks"/>
+    <file name="poly3342x231.jpg" crc="339022167" seo="true" ref="polulyuks"/>
+    <file name="poly4346x231.jpg" crc="4175311355" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288987.png" crc="3908851225" ref="polulyuks"/>
+    <file name="polylux325x216.jpg" crc="3908599020" seo="true" ref="polulyuks"/>
+    <file name="poly3321x217.jpg" crc="171855947" seo="true" ref="polulyuks"/>
+    <file name="poly4325x217.jpg" crc="4156842512" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288988.png" crc="18895940" ref="polulyuks"/>
+    <file name="polylux303x202.jpg" crc="381398903" seo="true" ref="polulyuks"/>
+    <file name="poly3300x203.jpg" crc="527756416" seo="true" ref="polulyuks"/>
+    <file name="poly4304x203.jpg" crc="3866319513" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-crop-u288989.png" crc="3793303471" ref="polulyuks"/>
+    <file name="polylux267x178.jpg" crc="3984114921" seo="true" ref="polulyuks"/>
+    <file name="poly3263x177.jpg" crc="4025828264" seo="true" ref="polulyuks"/>
+    <file name="poly4266x178.jpg" crc="4042113721" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-u28898.png" crc="4084087474" ref="polulyuks"/>
+    <file name="polylux234x156.jpg" crc="4275634422" seo="true" ref="polulyuks"/>
+    <file name="poly3230x155.jpg" crc="370255734" seo="true" ref="polulyuks"/>
+    <file name="poly4233x156.jpg" crc="3826150018" seo="true" ref="polulyuks"/>
+    <file name="gold-button-013-2400px-u288982.png" crc="4056868245" ref="polulyuks"/>
+    <file name="lux2x2.jpg" crc="4118763558" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3.jpg" crc="208198553" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u30094.png" crc="90165519" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300942.png" crc="255210649" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300943.png" crc="35166055" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300944.png" crc="133244819" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x438x292.jpg" crc="4074781156" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2439x293.jpg" crc="4042532599" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3438x293.jpg" crc="4097517394" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300945.png" crc="3925202782" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x375x250.jpg" crc="274725022" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2376x251.jpg" crc="178224495" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3375x250.jpg" crc="335268534" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300946.png" crc="4172849273" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x368x245.jpg" crc="432284973" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2368x245.jpg" crc="3796809085" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3368x246.jpg" crc="4226146555" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300947.png" crc="3895036002" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x341x227.jpg" crc="439416495" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2341x227.jpg" crc="4287222375" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3341x228.jpg" crc="3800542557" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300948.png" crc="258214392" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x320x213.jpg" crc="69188571" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2320x213.jpg" crc="4210618956" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3320x214.jpg" crc="4019796042" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u300949.png" crc="405252291" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x298x199.jpg" crc="303039677" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2301x201.jpg" crc="69229302" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3301x201.jpg" crc="259754540" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-crop-u3009410.png" crc="221434582" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x267x179.jpg" crc="252399524" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2266x177.jpg" crc="4148028411" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3266x178.jpg" crc="373913779" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-u30094.png" crc="3798639625" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x234x156.jpg" crc="464526235" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x2233x155.jpg" crc="367447349" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="lux2x3233x156.jpg" crc="138697706" seo="true" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-u300942.png" crc="4256361387" ref="lyuks-2h-komnatnyy"/>
+    <file name="gold-button-013-2400px-u51788.png" crc="3782606949" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51791.png" crc="3782606949" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51794.png" crc="8380439" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51797.png" crc="8380439" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51800.png" crc="8380439" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51803.png" crc="8380439" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51806.png" crc="8380439" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51809.png" crc="8380439" ref="akcii"/>
+    <file name="gold-button-013-2400px-u51812.png" crc="8380439" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517882.png" crc="120778578" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517912.png" crc="120778578" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517942.png" crc="192000433" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517972.png" crc="192000433" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518002.png" crc="192000433" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518032.png" crc="192000433" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518062.png" crc="192000433" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518092.png" crc="192000433" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518122.png" crc="192000433" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517883.png" crc="4113241255" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517913.png" crc="4113241255" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517943.png" crc="3942002549" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517973.png" crc="3942002549" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518003.png" crc="3942002549" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518033.png" crc="3942002549" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518063.png" crc="3942002549" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518093.png" crc="3942002549" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518123.png" crc="3942002549" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517884.png" crc="46083359" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517914.png" crc="46083359" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517944.png" crc="3955272888" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517974.png" crc="3955272888" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518004.png" crc="3955272888" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518034.png" crc="300790157" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518064.png" crc="3955272888" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518094.png" crc="3955272888" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518124.png" crc="3955272888" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517885.png" crc="4116021748" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517915.png" crc="4116021748" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517945.png" crc="196934264" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517975.png" crc="4080353670" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518005.png" crc="4080353670" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518035.png" crc="3782626249" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518065.png" crc="477390496" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518095.png" crc="4080353670" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518125.png" crc="404815789" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517886.png" crc="3992634953" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517916.png" crc="3932232031" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517946.png" crc="4206261816" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517976.png" crc="4206261816" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518006.png" crc="4206261816" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518036.png" crc="199262116" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518066.png" crc="4206261816" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518096.png" crc="4206261816" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518126.png" crc="4125432609" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517887.png" crc="4049826177" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517917.png" crc="4049826177" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517947.png" crc="4099750382" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517977.png" crc="4099750382" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518007.png" crc="351285313" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518037.png" crc="27140388" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518067.png" crc="4097561391" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518097.png" crc="4099750382" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518127.png" crc="351285313" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517888.png" crc="4418040" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517918.png" crc="4418040" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517948.png" crc="163658911" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517978.png" crc="163658911" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518008.png" crc="451182419" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518038.png" crc="58759989" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518068.png" crc="163658911" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518098.png" crc="451182419" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518128.png" crc="72423627" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517889.png" crc="4142777492" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517919.png" crc="4142777492" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517949.png" crc="4015980737" ref="akcii"/>
+    <file name="gold-button-013-2400px-u517979.png" crc="4015980737" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518009.png" crc="329310531" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518039.png" crc="3814609296" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518069.png" crc="4015980737" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518099.png" crc="329310531" ref="akcii"/>
+    <file name="gold-button-013-2400px-u518129.png" crc="341146558" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5178810.png" crc="456740137" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5179110.png" crc="295119935" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5179410.png" crc="4140999910" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5179710.png" crc="303311396" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180010.png" crc="3838401305" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180310.png" crc="3835428702" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180610.png" crc="451034000" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180910.png" crc="4038234884" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5181210.png" crc="4038234884" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5178811.png" crc="4179906501" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5179111.png" crc="87668267" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5179411.png" crc="10108613" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5179711.png" crc="3846304983" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180011.png" crc="269707580" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180311.png" crc="114928199" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180611.png" crc="233829359" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5180911.png" crc="370843787" ref="akcii"/>
+    <file name="gold-button-013-2400px-u5181211.png" crc="370843787" ref="akcii"/>
+    <file name="maket-3-favicon.ico" crc="111324095" ref="index"/>
+    <file name="8.png" crc="376096862" seo="true" ref="index"/>
+    <file name="foto.jpg" crc="536722813" ref="index"/>
+    <file name="gold-button-013-2400px-crop-u264156.png" crc="90165519" ref="index"/>
+    <file name="3-u264220.png" crc="3920770054" ref="index"/>
+    <file name="5-crop-u264146.png" crc="45447738" ref="index"/>
+    <file name="6-crop-u264226.png" crc="3790864056" ref="index"/>
+    <file name="7-crop-u264228.png" crc="10549401" ref="index"/>
+    <file name="1 fon-u264148-fr.jpg" crc="84439446" ref="index"/>
+    <file name="1 fon-u264148-fr2.jpg" crc="139128785" ref="index"/>
+    <file name="4-crop-u264163.png" crc="37550468" ref="index"/>
+  </folder>
+  <file name="o-nas.html" crc="3776341428" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="catalog.html" crc="4192594656" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="ceny.html" crc="529046685" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="uslugi.html" crc="180130957" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="contacty.html" crc="4134557949" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="booking.html" crc="364255713" seo="true" mt="1473221208847" redirect="true"/>
+  <file name="standart.html" crc="3978066030" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="komfort-de-lyuks.html" crc="4194792641" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="polulyuks.html" crc="4270917427" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="lyuks-2h-komnatnyy.html" crc="4251001975" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="akcii.html" crc="409248962" seo="true" mt="1473245426097" redirect="true"/>
+  <file name="index.html" crc="4268173049" seo="true" mt="1473245466153" redirect="true"/>
+</manifest>
